@@ -1,9 +1,0 @@
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\bin\Debug\GeometricFigures.Tests.dll
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\bin\Debug\GeometricFigures.Tests.pdb
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\bin\Debug\GeometricFigures.dll
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\bin\Debug\GeometricFigures.pdb
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\obj\Debug\GeometricFigures.Tests.csprojResolveAssemblyReference.cache
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\obj\Debug\GeometricFigures.Tests.dll
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures.Tests\obj\Debug\GeometricFigures.Tests.pdb
