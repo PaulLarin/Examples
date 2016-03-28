@@ -1,5 +1,0 @@
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.dll
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures\bin\Debug\GeometricFigures.pdb
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.csprojResolveAssemblyReference.cache
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.dll
-C:\Users\LarinPO\Documents\GitHub\Examples\GeometricFigures\GeometricFigures\obj\Debug\GeometricFigures.pdb

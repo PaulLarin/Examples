@@ -1,0 +1,8 @@
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsService\ContactsService\bin\ContactsService.dll.config
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsService\ContactsService\bin\ContactsService.dll
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsService\ContactsService\bin\ContactsService.pdb
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsService\ContactsService\obj\Debug\ContactsService.dll
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsService\ContactsService\obj\Debug\ContactsService.pdb
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsService\ContactsService\obj\Debug\ContactsService.csprojResolveAssemblyReference.cache
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsService\ContactsService\bin\ContactsShared.dll
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsService\ContactsService\bin\ContactsShared.pdb

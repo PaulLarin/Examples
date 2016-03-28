@@ -1,0 +1,4 @@
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsShared\ContactsShared\bin\Debug\ContactsShared.dll
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsShared\ContactsShared\bin\Debug\ContactsShared.pdb
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsShared\ContactsShared\obj\Debug\ContactsShared.dll
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsShared\ContactsShared\obj\Debug\ContactsShared.pdb

@@ -1,0 +1,8 @@
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsClient\ContactsDatalayer\bin\Debug\ContactsDatalayer.dll.config
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsClient\ContactsDatalayer\bin\Debug\ContactsDatalayer.dll
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsClient\ContactsDatalayer\bin\Debug\ContactsDatalayer.pdb
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsClient\ContactsDatalayer\obj\Debug\ContactsDatalayer.csprojResolveAssemblyReference.cache
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsClient\ContactsDatalayer\obj\Debug\ContactsDatalayer.dll
+c:\users\larinpo\documents\visual studio 2015\Projects\ContactsClient\ContactsDatalayer\obj\Debug\ContactsDatalayer.pdb
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsClient\ContactsDatalayer\bin\Debug\ContactsShared.dll
+C:\Users\LarinPO\Documents\Visual Studio 2015\Projects\ContactsClient\ContactsDatalayer\bin\Debug\ContactsShared.pdb

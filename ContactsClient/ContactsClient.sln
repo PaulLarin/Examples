@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsDatalayer", "ContactsDatalayer\ContactsDatalayer.csproj", "{C9A981D8-2749-482D-AB2F-8975A0F6AD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsClient", "ContactsClient\ContactsClient.csproj", "{FA0743CF-4882-4226-A8CB-0ADE2282A8E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsShared", "..\ContactsShared\ContactsShared\ContactsShared.csproj", "{9347A360-7DCC-4867-8C6D-47EE1172A353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A981D8-2749-482D-AB2F-8975A0F6AD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A981D8-2749-482D-AB2F-8975A0F6AD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A981D8-2749-482D-AB2F-8975A0F6AD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A981D8-2749-482D-AB2F-8975A0F6AD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0743CF-4882-4226-A8CB-0ADE2282A8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0743CF-4882-4226-A8CB-0ADE2282A8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0743CF-4882-4226-A8CB-0ADE2282A8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0743CF-4882-4226-A8CB-0ADE2282A8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9347A360-7DCC-4867-8C6D-47EE1172A353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9347A360-7DCC-4867-8C6D-47EE1172A353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9347A360-7DCC-4867-8C6D-47EE1172A353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9347A360-7DCC-4867-8C6D-47EE1172A353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
