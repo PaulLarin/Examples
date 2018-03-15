@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\ПавелЛарин\Source\Repos\Examples\ContactsClient\ContactsClient\obj\Debug\
+C:\Users\ПавелЛарин\Source\Repos\Examples\ContactsClient\ContactsClient\obj\Release\
 ContactsClient
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\ПавелЛарин\Source\Repos\Examples\ContactsClient\ContactsClient\App.xaml
 21255132344
 
 12-905179945
-17-1926358845
+171773303495
 MainWindow.xaml;View\ContactsCatalog.xaml;
 
 True

@@ -28,35 +28,35 @@ namespace ContactsDatalayer
 
 		public Contact GetContact(Guid id)
 		{
-			return SafeCall(() => Service.GetContact(id));
+			return Call(() => Service.GetContact(id));
 		}
 
 		public Contact GetContactByPhone(string phone)
 		{
-			return SafeCall(() => Service.GetContactByPhone(phone));
+			return Call(() => Service.GetContactByPhone(phone));
 		}
 
 		public bool Update(Contact contact)
 		{
-			return SafeCall(() => Service.Update(contact));
+			return Call(() => Service.Update(contact));
 		}
 
 		public bool Create(Contact contact)
 		{
-			return SafeCall(() => Service.Create(contact));
+			return Call(() => Service.Create(contact));
 		}
 
 		public bool Remove(Guid id)
 		{
-			return SafeCall(() => Service.Remove(id));
+			return Call(() => Service.Remove(id));
 		}
 
 		public List<Contact> GetContacts(ContactFilterArgs filterArgs)
 		{
-			return SafeCall(() => Service.GetContacts(filterArgs));
+			return Call(() => Service.GetContacts(filterArgs));
 		}
 
-		private T SafeCall<T>(Func<T> func) where T : new()
+		private T Call<T>(Func<T> func) where T : new()
 		{
 			try
 			{
@@ -64,10 +64,9 @@ namespace ContactsDatalayer
 			}
 			catch (Exception ex)
 			{
+                // exception handling logic
 				throw ex;
 			}
-
-			return new T();
 		}
 	}
 }
